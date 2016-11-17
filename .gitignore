@@ -1,0 +1,14 @@
+.DS_Store
+*.pyc
+*.egg-info
+*.swp
+tags
+document_library/docs/current
+*.py~
+*.comp.js
+conf.py
+locale
+latest_updates.json
+.wnf-lang-status
+build/
+dist/
